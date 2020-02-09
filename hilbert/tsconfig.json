@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./dist/bundle.js",
+        "sourceRoot": "./src/ts/",
+        "rootDir": "./src/ts",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "none"
+    }
+}
